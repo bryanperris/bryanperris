@@ -8,7 +8,7 @@ You guessed it, software engineering, of course eleterical has a place too. Inve
 * Bluetooth Low Energy, Bluetooth Mesh, Ellisys Bluetooth Sniffer, Nordic NRF DevKit, ESP32, PIC32, RPI, Zephyr RTOS
 * Full Stack Web Development, MySQL, MongoDB, CodeIgniter, Vite, Webpack
 * Help Desk, IT support, Networking
-* Gtk, Qt, WinForms, WPF, Dear ImGui, OpenGL, Direct3D, GLFW, SDL, XNA, Electron
+* Gtk, Qt, WinForms, WPF, Dear ImGui, OpenGL, Direct3D, GLFW, SDL, XNA, Electron, ThreeJS
 
 ### .n64-hacking
 * https://github.com/bryanperris/n64-links

@@ -11,20 +11,20 @@ You guessed it, software engineering, of course eleterical has a place too. Inve
 * Gtk, Qt, WinForms, WPF, Dear ImGui, OpenGL, Direct3D, GLFW, SDL, XNA, Electron, ThreeJS
 
 ### .learn / .curious
-• Power supply design
-• DIY decapping
-• KiCad / PCD Design
-• Laser Engineering
-• PID Loops
-• Analog Systems
-• Signal Processing
-• High Voltage Applications
-• Transformers/Inverters
-• Raytracing
-• GPU Shading / Computing
-• Linux kernel development
-• Wine/Proton development
-• Mesa 3D Graphics Library development
+* Power supply design
+* DIY decapping
+* KiCad / PCD Design
+* Laser Engineering
+* PID Loops
+* Analog Systems
+* Signal Processing
+* High Voltage Applications
+* Transformers/Inverters
+* Raytracing
+* GPU Shading / Computing
+* Linux kernel development
+* Wine/Proton development
+* Mesa 3D Graphics Library development
 
 ### .n64-hacking
 * https://github.com/bryanperris/n64-links

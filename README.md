@@ -10,7 +10,7 @@ You guessed it, software engineering, of course eleterical has a place too. Inve
 * Help Desk, IT support, Networking
 * Gtk, Qt, WinForms, WPF, Dear ImGui, OpenGL, Direct3D, GLFW, SDL, XNA, Electron, ThreeJS
 
-### .learn / .curious
+### .curiousity
 * Power supply design
 * DIY decapping
 * KiCad / PCD Design

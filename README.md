@@ -18,7 +18,6 @@ You guessed it, software engineering, of course eleterical has a place too. Inve
 * PID Loops
 * Analog Systems
 * Signal Processing
-* High Voltage Applications
 * Transformers/Inverters
 * Raytracing
 * GPU Shading / Computing

@@ -1,5 +1,5 @@
 ### .intro
-You guessed it, software engineering, of course eleterical has a place too. Invest your time in learning Linux or BSD, if you haven't.
+You guessed it, software engineering, of course electrical has a place too. Invest your time in learning Linux or BSD, if you haven't.
 
 ### .experiences
 * C, C++, C#, Rust, PHP, ASP.NET, JavaScript, Python, TypeScript, Assembly, Lua, Ruby, Java, Cuda, WebAssembly, HTML/CSS, Bash, Zsh

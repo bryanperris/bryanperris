@@ -16,7 +16,7 @@ Web Development: Full Stack Web Development, MySQL, MongoDB, Vite, Webpack
 
 UI Frameworks: Gtk, Qt, WinForms, WPF, Dear ImGui, OpenGL, Direct3D, GLFW, SDL, XNA, Electron, ThreeJS, egui, eframe, Skia
 
-Cloud & Infrastructure: AWS, Docker, Ansible, Jenkins, CloudFormation, S3 Bucket, Lambda, EC2, Elastic IP, QEMU, VMM, KVM, VMWare, VirtualBox, Podman, Distrobox, NVIDIA Container Toolkit, AMD RocM Container, VirGL, Virtio, Docker Compose
+Cloud & Infrastructure: AWS, Docker, Ansible, Jenkins, CloudFormation, S3 Bucket, Lambda, EC2, Elastic IP, QEMU, VMM, KVM, VMWare, VirtualBox, Podman, Distrobox, NVIDIA Container Toolkit, AMD RocM Container, VirGL, Virtio, Docker Compose, Portainer, LazyDocker, RocM computing
 
 Networking & VPNs: OpenVPN, WireGuard, Netbird, Synology NAS, Router management, OpenSSL, Apache, Twilio, WebSockets, RabbitMQ, RTI DDS, JAUS
 

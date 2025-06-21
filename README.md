@@ -51,6 +51,7 @@
   <!-- Containers -->
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40"/>
   <img src="https://cdn.simpleicons.org/podman/892CA0" alt="Podman" width="40"/>
+  <img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer" width="40"/>
 
   <!-- DevOps -->
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" width="40"/>

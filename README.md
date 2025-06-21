@@ -56,6 +56,7 @@
   <!-- DevOps -->
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" width="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="Ansible" width="40"/>
+  <img src="https://cdn.simpleicons.org/vagrant/1868F2" alt="Linux" width="40"/>
 
   <!-- Operating Systems -->
   <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40"/>

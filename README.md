@@ -87,6 +87,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ IDEA" height="40"/>
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="androidstudio" height="40"/>
+  <img src="https://cdn.simpleicons.org/neovim/57A143" alt="androidstudio" height="40"/>
 </p>
 
 <h1 align="center">Unit Testing</h1>

@@ -59,7 +59,7 @@
   <img src="https://cdn.simpleicons.org/vagrant/1868F2" alt="Linux" height="40"/>
 </p>
 
-<h1 align="center">Operating Systems</h1>
+<h1 align="center">Platforms</h1>
 <p align="center">
   <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40"/>
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" height="40"/>
